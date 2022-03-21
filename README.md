@@ -1,0 +1,1 @@
+# eclipse-crash-log
